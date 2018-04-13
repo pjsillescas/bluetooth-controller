@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">VirtualController</string>
+
+    <string name="angle_string">Angle</string>
+    <string name="strength_string">Strength:</string>
+    <string name="remote_angle_string">Remote angle:</string>
+    <string name="remote_strength_string">Remote strength:</string>
 </resources>
