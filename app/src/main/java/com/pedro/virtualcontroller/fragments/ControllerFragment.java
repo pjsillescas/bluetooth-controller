@@ -1,4 +1,4 @@
-package com.pedro.virtualcontroller;
+package com.pedro.virtualcontroller.fragments;
 
 import android.content.Context;
 import android.net.Uri;
@@ -8,6 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.pedro.virtualcontroller.R;
 
 import io.github.controlwear.virtual.joystick.android.JoystickView;
 

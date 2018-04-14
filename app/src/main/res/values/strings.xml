@@ -5,4 +5,18 @@
     <string name="strength_string">Strength:</string>
     <string name="remote_angle_string">Remote angle:</string>
     <string name="remote_strength_string">Remote strength:</string>
+    <string name="bluetooth_is_not_available">Bluetooth is not available</string>
+    <string name="not_connected">not connected</string>
+    <string name="unable_to_connect_device">Unable to connect device</string>
+    <string name="device_connection_was_lost">Device connection was lost</string>
+    <string name="connected_to">Connected to</string>
+    <string name="bt_not_enabled_leaving">Bluetooth not enabled. Leaving</string>
+    <string name="none_paired">None paired</string>
+    <string name="scanning">Scanning</string>
+    <string name="select_device">Select device</string>
+    <string name="none_found">None found</string>
+    <string name="title_paired_devices">Paired devices</string>
+    <string name="title_other_devices">Other devices</string>
+    <string name="button_scan">Scan</string>
+    <string name="connect">Connect</string>
 </resources>
